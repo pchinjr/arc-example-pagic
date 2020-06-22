@@ -2,7 +2,6 @@
 pagic
 
 @begin
-lint "deno fmt"
 build "pagic build"
 
 @static
